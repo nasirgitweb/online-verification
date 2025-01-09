@@ -31,7 +31,8 @@ h1 {
 p {
     font-size: 11px;
     color: #666;
-    margin-bottom: 20px;
+    margin-top: 1px;
+    margin-bottom: 5px;
 }
 
 input {
@@ -76,3 +77,4 @@ button:hover {
 .error {
     color: red;
 }
+
